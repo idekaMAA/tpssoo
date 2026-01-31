@@ -1,0 +1,10 @@
+[INFO] 18:52:15:619 MASTER/(23285:23285): Logger inicializado correctamente
+[0m[INFO] 18:52:15:619 MASTER/(23285:23285): Configuración cargada: PUERTO=9001, ALGORITMO=FIFO, AGING=2500
+[0m[INFO] 18:52:15:620 MASTER/(23285:23285): Estructuras de datos inicializadas correctamente
+[0m[INFO] 18:52:15:624 MASTER/(23285:23285): MASTER escuchando en 9001
+[0m[INFO] 18:52:24:312 MASTER/(23285:23293): Query 0 agregada a READY (FIFO)
+[0m[INFO] 18:52:24:313 MASTER/(23285:23293): ## Se conecta un Query Control para ejecutar la Query mi_query.txt con prioridad 1 - Id asignado: 0. Nivel de multiprocesamiento 0
+[0m[INFO] 18:52:25:626 MASTER/(23285:23288): ## 0 Cambio de prioridad 1 - 0
+[0m[INFO] 18:53:20:789 MASTER/(23285:23287): ## Se envía la Query 0 (0) al Worker 1
+[0m[INFO] 18:53:20:792 MASTER/(23285:23309): ## Se conecta el Worker 1 - Cantidad total de Workers: 1
+[0m

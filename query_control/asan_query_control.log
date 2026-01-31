@@ -1,0 +1,3 @@
+[INFO] 18:52:24:308 QUERY_CONTROL/(23291:23291): ## Conexión al Master exitosa. IP: 127.0.0.1, Puerto: 9001
+[0m[INFO] 18:52:24:310 QUERY_CONTROL/(23291:23291): ## Solicitud de ejecución de Query: mi_query.txt, prioridad: 1
+[0m
